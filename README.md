@@ -15,6 +15,8 @@ En lugar de "parchar" binarios internos de MATLAB que se rompen con cada actuali
 4. **Destruye el contenedor** para recuperar espacio.
 5. Ejecuta MATLAB nativamente desde Arch Linux (al ya tener el archivo de licencia en el `/home`, MATLAB se salta la verificación de hardware problemática).
 
+![MATLAB corriendo nativo en CachyOS](CapCachyOS.png)
+
 ## 🛠️ Requisitos
 - CachyOS o Arch Linux.
 - Cuenta institucional o licencia válida de MathWorks.
